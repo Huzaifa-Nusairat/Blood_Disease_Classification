@@ -1,8 +1,7 @@
-//![alt text](github_url_image?raw=true)to add image
 
--   ## Title of the project
-
-prepared by:
+-   ## Blood Disease Image Classification
+![alt text](https://github.com/Huzaifa-Nusairat/Blood_Disease_Classification/blob/master/Images/BDC.jpeg?raw=true)
+prepared by:Huzaifa Nusairat
 
 -   ## problem overview
 
